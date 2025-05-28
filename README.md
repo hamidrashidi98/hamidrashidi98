@@ -1,6 +1,6 @@
-## Hi there 👋
 ![Hamid Rashidi SVG](./hamidrashidi.svg)
-Hi there 👋! I’m Hamid, a developer from Iran.
+## Hi there !🫡🙌 
+## I’m Hamid, a developer from Iran.
 <!--
 **hamidrashidi98/hamidrashidi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
