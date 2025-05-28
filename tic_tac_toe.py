@@ -47,36 +47,19 @@ def update_readme():
 ![Hamid Rashidi SVG](./hamidrashidi.svg)
 
 ## Hi there! 🫡🙌 
-I'm Hamid Rashidi , a passionate developer from Iran. Welcome to my GitHub profile! Below, you can play an interactive Tic-Tac-Toe game against the computer! 🚀
+I'm Hamid Rashidi (he/him), a passionate developer from Iran. Welcome to my GitHub profile! Below, you can play an interactive Tic-Tac-Toe game against the computer! 🚀
 
 ## 🎲 Play Tic-Tac-Toe
 
-Click on an empty cell (⬜) to place your **X**. The computer will respond with **O**. *Wait a few seconds and refresh the page to see the updated board!*
+Click on an empty cell (⬜) to place your **X**. The computer will respond with **O**. *Wait 10-30 seconds and refresh the page to see the updated board!*
 
 |   |   |   |
 |---|---|---|
-|[{}](#move-0)|[{}](#move-1)|[{}](#move-2)|
-|[{}](#move-3)|[{}](#move-4)|[{}](#move-5)|
-|[{}](#move-6)|[{}](#move-7)|[{}](#move-8)|
+|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=0)|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=1)|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=2)|
+|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=3)|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=4)|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=5)|
+|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=6)|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=7)|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=8)|
 
-<script>
-document.querySelectorAll('a[href^="#move-"]').forEach(link => {
-  link.addEventListener('click', (e) => {
-    e.preventDefault();
-    const move = link.getAttribute('href').split('-')[1];
-    fetch(`https://api.github.com/repos/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches`, {
-      method: 'POST',
-      headers: {
-        'Authorization': `token ${localStorage.getItem('github-token') || 'YOUR_PERSONAL_ACCESS_TOKEN'}`,
-        'Accept': 'application/vnd.github.v3+json'
-      },
-      body: JSON.stringify({ ref: 'main', inputs: { move: move } })
-    }).then(() => alert('Move sent! Refresh the page in a few seconds.'));
-  });
-});
-</script>
-
-*Note*: After clicking a cell, wait 10-30 seconds and refresh the page to see the updated board. To reset the game, click [here](#reset).
+*Note*: After clicking a cell, wait 10-30 seconds and refresh the page to see the updated board. To reset the game, click [here](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=reset).
 
 ## 🛠️ Skills
 - HTML, CSS, JavaScript
