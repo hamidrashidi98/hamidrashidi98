@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="854" height="300" style="z-index:1;position:relative" viewBox="0 0 854 300">
+  <style>
+    .text { 
+      font-size: 70px; 
+      font-weight: 700; 
+      font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; 
+    }
+    .desc { 
+      font-size: 20px; 
+      font-weight: 500; 
+      font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; 
+    }
+    .text, .desc { 
+      animation: fadeIn 1.2s ease-in-out forwards; 
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+  </style>
+  <defs>
+    <!-- Gradient for background (purple) -->
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#800080" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#4B0082" stop-opacity="0.3"/>
+    </linearGradient>
+    <!-- Rainbow gradient for text -->
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF0000"/> <!-- Red -->
+      <stop offset="16.67%" stop-color="#40E0D0"/> <!-- Turquoise -->
+      <stop offset="33.33%" stop-color="#FFFF00"/> <!-- Yellow -->
+      <stop offset="50%" stop-color="#00FF00"/> <!-- Green -->
+      <stop offset="66.67%" stop-color="#00A1FF"/> <!-- Blue -->
+      <stop offset="83.33%" stop-color="#4B0082"/> <!-- Indigo -->
+      <stop offset="100%" stop-color="#2F4F4F"/> <!-- Dark -->
+      <animate attributeName="x1" from="0%" to="100%" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="0%" to="200%" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(427, 150) scale(1, 1) translate(-427, -150)">
+    <path d="" fill="url(#linear)" opacity="0.7">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 150Q 213.5 230 427 210T 854 300L 854 0 Z;M0 0L 0 175Q 213.5 250 427 220T 854 320L 854 0 Z;M0 0L 0 195Q 213.5 240 427 230T 854 340L 854 0 Z;M0 0L 0 150Q 213.5 230 427 210T 854 300L 854 0 Z">
+      </animate>
+    </path>
+    <path d="" fill="url(#linear)" opacity="0.7">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-5s" values="M0 0L 0 165Q 213.5 260 427 230T 854 310L 854 0 Z;M0 0L 0 180Q 213.5 230 427 240T 854 330L 854 0 Z;M0 0L 0 175Q 213.5 220 427 250T 854 350L 854 0 Z;M0 0L 0 165Q 213.5 260 427 230T 854 310L 854 0 Z">
+      </animate>
+    </path>
+  </g>
+  <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:url(#gradient); stroke:#FFFFFF; stroke-width:2; stroke-opacity:0.5;" stroke-linejoin="round">Hamid Rashidi</text>
+</svg>
