@@ -6,15 +6,32 @@ Hi, I'm Hamid Rashidi (he/him)! I'm a passionate developer, and here's a fun Tic
 
 ## 🎲 Play Tic-Tac-Toe
 
-To make your move (X), comment a number from 0 to 8 on [this Issue](https://github.com/hamidrashidi98/hamidrashidi98/issues/1) corresponding to the cell you want to play. For example, comment "0" for the top-left cell. The computer will respond with O, and the board will update here. *Refresh the page after commenting to see the updated board!*
+Click on an empty cell (⬜) to place your **X**. The computer will respond with **O**. *Wait a few seconds and refresh the page to see the updated board!*
 
 |   |   |   |
 |---|---|---|
-|⬜|⬜|⬜|
-|⬜|⬜|⬜|
-|⬜|⬜|⬜|
+|[⬜](#move-0)|[⬜](#move-1)|[⬜](#move-2)|
+|[⬜](#move-3)|[⬜](#move-4)|[⬜](#move-5)|
+|[⬜](#move-6)|[⬜](#move-7)|[⬜](#move-8)|
 
-*Note*: After commenting your move, wait a few seconds and refresh the page to see the updated board. To reset the game, comment "reset" on the same Issue.
+<script>
+document.querySelectorAll('a[href^="#move-"]').forEach(link => {
+  link.addEventListener('click', (e) => {
+    e.preventDefault();
+    const move = link.getAttribute('href').split('-')[1];
+    fetch(`https://api.github.com/repos/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `token ${localStorage.getItem('github-token') || 'YOUR_PERSONAL_ACCESS_TOKEN'}`,
+        'Accept': 'application/vnd.github.v3+json'
+      },
+      body: JSON.stringify({ ref: 'main', inputs: { move: move } })
+    }).then(() => alert('Move sent! Refresh the page in a few seconds.'));
+  });
+});
+</script>
+
+*Note*: After clicking a cell, wait 10-30 seconds and refresh the page to see the updated board. To reset the game, click [here](#reset).
 
 ## 🛠️ Skills
 - HTML, CSS, JavaScript
