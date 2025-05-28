@@ -2,17 +2,98 @@
 ![Hamid Rashidi SVG](./hamidrashidi.svg)
 ## Hi there !🫡🙌 
 ## I’m Hamid, a developer from Iran.
-<!--
-**hamidrashidi98/hamidrashidi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Hamid Rashidi (he/him)! I'm a passionate developer, and here's a fun Tic-Tac-Toe game you can play right on my profile! Try to beat the computer! 🎮
 
-Here are some ideas to get you started:
+🎲 Play Tic-Tac-Toe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Click on an empty cell to make your move (X). The computer will respond with O.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+⬜
+
+
+
+⬜
+
+
+
+⬜
+
+
+
+
+
+⬜
+
+
+
+⬜
+
+
+
+⬜
+
+
+
+
+
+⬜
+
+
+
+⬜
+
+
+
+⬜
+
+Note: This is a simple demo. For a fully interactive game, check out my repositories or try the links above to play a basic version!
+
+🛠️ Skills
+
+
+
+
+
+HTML, CSS, JavaScript
+
+
+
+Python
+
+
+
+SVG Animations
+
+📫 Connect with Me
+
+
+
+
+
+LinkedIn
+
+
+
+Email
+
+Enjoy the game and explore my projects below! 🚀
