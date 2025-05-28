@@ -5,7 +5,6 @@
 Hi, I'm Hamid Rashidi (he/him)! I'm a passionate developer, and here's a fun Tic-Tac-Toe game you can play right on my profile! Try to beat the computer! 🎮
 
 ## 🎲 Play Tic-Tac-Toe
-
 Click on an empty cell to make your move (X). The computer will respond with O.
 
 |   |   |   |
@@ -14,7 +13,7 @@ Click on an empty cell to make your move (X). The computer will respond with O.
 |[⬜](#)|[⬜](#)|[⬜](#)|
 |[⬜](#)|[⬜](#)|[⬜](#)|
 
-*Note*: This is a simple demo. For a fully interactive game, check out my repositories or try the links above to play a basic version!
+*Note*: This is a static demo. Check my repositories for updates on the interactive version or try the links above to see the game layout!
 
 ## 🛠️ Skills
 - HTML, CSS, JavaScript
@@ -22,7 +21,8 @@ Click on an empty cell to make your move (X). The computer will respond with O.
 - SVG Animations
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) *(Replace with your LinkedIn URL)*
-- [Email](mailto:your.email@example.com) *(Replace with your email)*
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) 
+- [Email](mailto:your.email@example.com) 
 
 Enjoy the game and explore my projects below! 🚀
+
