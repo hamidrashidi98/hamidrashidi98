@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 30 30" style="background-color: #1a1a1a;">
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 30 30" style="background-color: #1a1a1a;">
   <defs>
     <style>
       .snake { fill: #40E0D0; }
