@@ -1,10 +1,9 @@
-```yaml
 name: Update Tic-Tac-Toe Game
 on:
   workflow_dispatch:
     inputs:
       move:
-        description: 'Cell number (0-8) for player move'
+        description: 'Cell number (0-8) for player move or "reset" to reset the game'
         required: true
 jobs:
   update-game:
@@ -23,4 +22,3 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Tic-Tac-Toe game state
-```
