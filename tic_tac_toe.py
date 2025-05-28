@@ -1,12 +1,11 @@
-```python
-import random
 import os
 import json
+import random
 
 # Initialize the game board
 board = ["⬜"] * 9
 
-# Load board state if it exists
+# Load board state
 def load_board():
     global board
     try:
@@ -48,19 +47,36 @@ def update_readme():
 ![Hamid Rashidi SVG](./hamidrashidi.svg)
 
 ## Hi there! 🫡🙌 
-I'm Hamid Rashidi (he/him), a passionate developer from Iran. Welcome to my GitHub profile! Below, you can play an interactive Tic-Tac-Toe game against the computer! 🚀
+I'm Hamid Rashidi , a passionate developer from Iran. Welcome to my GitHub profile! Below, you can play an interactive Tic-Tac-Toe game against the computer! 🚀
 
 ## 🎲 Play Tic-Tac-Toe
 
-Click on an empty cell to make your move (X). The computer will respond with O. *Refresh the page after each move to see the updated board!*
+Click on an empty cell (⬜) to place your **X**. The computer will respond with **O**. *Wait a few seconds and refresh the page to see the updated board!*
 
 |   |   |   |
 |---|---|---|
-|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=0)|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=1)|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=2)|
-|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=3)|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=4)|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=5)|
-|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=6)|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=7)|[{}](https://github.com/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches?move=8)|
+|[{}](#move-0)|[{}](#move-1)|[{}](#move-2)|
+|[{}](#move-3)|[{}](#move-4)|[{}](#move-5)|
+|[{}](#move-6)|[{}](#move-7)|[{}](#move-8)|
 
-*Note*: After clicking a cell, wait a few seconds and refresh the page to see the computer's move. To reset the game, click [here](#).
+<script>
+document.querySelectorAll('a[href^="#move-"]').forEach(link => {
+  link.addEventListener('click', (e) => {
+    e.preventDefault();
+    const move = link.getAttribute('href').split('-')[1];
+    fetch(`https://api.github.com/repos/hamidrashidi98/hamidrashidi98/actions/workflows/update_game.yml/dispatches`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `token ${localStorage.getItem('github-token') || 'YOUR_PERSONAL_ACCESS_TOKEN'}`,
+        'Accept': 'application/vnd.github.v3+json'
+      },
+      body: JSON.stringify({ ref: 'main', inputs: { move: move } })
+    }).then(() => alert('Move sent! Refresh the page in a few seconds.'));
+  });
+});
+</script>
+
+*Note*: After clicking a cell, wait 10-30 seconds and refresh the page to see the updated board. To reset the game, click [here](#reset).
 
 ## 🛠️ Skills
 - HTML, CSS, JavaScript
@@ -80,7 +96,7 @@ Enjoy the game and explore my projects below! 🚀
 # Main logic
 def main():
     load_board()
-    move = os.getenv("MOVE")  # Get move from GitHub Actions input
+    move = os.getenv("MOVE")  # Get move from workflow input
     if move and move.isdigit():
         move = int(move)
         if 0 <= move <= 8 and board[move] == "⬜":
@@ -97,9 +113,14 @@ def main():
                 print("Move recorded, board updated.")
         else:
             print("Invalid move!")
+    elif move == "reset":
+        global board
+        board = ["⬜"] * 9
+        save_board()
+        update_readme()
+        print("Game reset!")
     else:
         print("No move provided or invalid input.")
 
 if __name__ == "__main__":
     main()
-```
