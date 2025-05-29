@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile!
 ![Hamid Rashidi SVG](./hamidrashidi.svg)
 
-##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Discord+Bot+Developer;Discord+Server+Administrator;Bale+Bot+Developer;Telegram+Bot+Developer;Frontend+Programmer;Backend+Developer;Passionate+about+Development+%E2%99%A5%EF%B8%8F)
+##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Discord+Bot+Developer;Bale+Bot+Developer;Telegram+Bot+Developer;Frontend+Programmer;Backend+Developer;Passionate+about+Development+%E2%99%A5%EF%B8%8F)
 
 ## Hi there !🫡🙌 
 ## I’m Hamid, a developer from Iran.
