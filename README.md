@@ -1,42 +1,17 @@
-<span class="welcome-container">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=435&lines=Welcome+to+My+GitHub+Profile!" alt="Welcome Typing SVG">
-</span>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=145&lines=Welcome" alt="Welcome">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=145&lines=to+My" alt="to My">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=145&lines=GitHub+Profile!" alt="GitHub Profile">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=24000&color=FF0000&vCenter=true&repeat=true&width=145&lines=Welcome" alt="Welcome Rainbow">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=23500&color=FFA500&vCenter=true&repeat=true&width=145&lines=to+My" alt="to My Rainbow">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=23000&color=FFFF00&vCenter=true&repeat=true&width=145&lines=GitHub+Profile!" alt="GitHub Profile Rainbow">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00CED1&vCenter=true&random=false&width=435&lines=Discord+Bot+Developer;Bale+Bot+Developer;Telegram+Bot+Developer;Frontend+Programmer;Backend+Developer;Passionate+about+Development+%E2%99%A5" alt="Typing SVG">
 
-<style>
-@keyframes glow {
-  0% { filter: drop-shadow(0 0 5px #00CED1); }
-  50% { filter: drop-shadow(0 0 10px #00CED1); }
-  100% { filter: drop-shadow(0 0 5px #00CED1); }
-}
-@keyframes rainbow {
-  0% {
-    background: linear-gradient(to right, #FF0000, #FFA500, #FFFF00, #00FF00, #0000FF, #4B0082, #EE82EE);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-    background-position: 0%;
-  }
-  100% {
-    background: linear-gradient(to right, #FF0000, #FFA500, #FFFF00, #00FF00, #0000FF, #4B0082, #EE82EE);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-    background-position: 200%;
-  }
-}
-.welcome-container {
-  animation: glow 2s ease-in-out infinite;
-}
-.welcome-container img {
-  animation: rainbow 5s linear infinite;
-  animation-delay: 25s;
-}
-</style>
+![Hamid Rashidi SVG](./hamidrashidi98.svg)
 ## Hi there !🫡🙌 
 ## I’m Hamid, a developer from Iran.
-![Hamid Rashidi SVG](./hamidrashidi98.svg)
+
 
 ## 🐍 Auto-Moving Snake Game
 
