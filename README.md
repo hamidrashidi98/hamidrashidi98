@@ -40,7 +40,7 @@
 
   <!-- X (Twitter) -->
   <a href="https://www.x.com/hamidrashidi98/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="60" height="60" alt="X (Twitter)"/>
-  </a>
-</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="60" height="60" alt="X (Twitter)"/>
+</a>
+
 </p>
