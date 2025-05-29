@@ -33,7 +33,7 @@
 <a href="https://www.linkedin.com/in/kian-ahmadian/"><img src="https://commons.wikimedia.org/wiki/File:X_logo_2023_(white).svg" alt="LinkedIn"/></a>
 
 <a href="https://www.discord.com/users/684748470799958033">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" alt="Discord" width="60" height="60"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg](https://pngimg.com/uploads/discord/discord_PNG7.png)" alt="Discord" width="60" height="60"/>
 </a>
 
 <a href="https://hamid-rashidi.ir"><img src="https://img.icons8.com/ios-filled/60/000000/domain.png" alt="My Site"/></a> </p>
