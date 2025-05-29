@@ -19,20 +19,21 @@
     }
   </style>
   <defs>
-    <!-- Gradient for background (purple) -->
+    <!-- Gradient for background (turquoise) -->
     <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#800080" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#4B0082" stop-opacity="0.3"/>
+      <stop offset="0%" stop-color="#40E0D0" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#20B2AA" stop-opacity="0.3"/>
     </linearGradient>
+
     <!-- Rainbow gradient for text -->
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF0000"/> <!-- Red -->
-      <stop offset="16.67%" stop-color="#40E0D0"/> <!-- Turquoise -->
-      <stop offset="33.33%" stop-color="#FFFF00"/> <!-- Yellow -->
-      <stop offset="50%" stop-color="#00FF00"/> <!-- Green -->
-      <stop offset="66.67%" stop-color="#00A1FF"/> <!-- Blue -->
-      <stop offset="83.33%" stop-color="#4B0082"/> <!-- Indigo -->
-      <stop offset="100%" stop-color="#2F4F4F"/> <!-- Dark -->
+      <stop offset="0%" stop-color="#FF0000"/>
+      <stop offset="16.67%" stop-color="#40E0D0"/>
+      <stop offset="33.33%" stop-color="#FFFF00"/>
+      <stop offset="50%" stop-color="#00FF00"/>
+      <stop offset="66.67%" stop-color="#00A1FF"/>
+      <stop offset="83.33%" stop-color="#4B0082"/>
+      <stop offset="100%" stop-color="#2F4F4F"/>
       <animate attributeName="x1" from="0%" to="100%" dur="5s" repeatCount="indefinite"/>
       <animate attributeName="x2" from="0%" to="200%" dur="5s" repeatCount="indefinite"/>
     </linearGradient>
