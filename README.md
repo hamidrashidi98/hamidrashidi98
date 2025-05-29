@@ -38,10 +38,5 @@
   <a href="https://codeforces.com/profile/kian_ahmadian">
     <img src="https://sta.codeforces.com/s/73549/images/icons/favicon-32x32.png" width="60" height="60" alt="Codeforces"/>
   </a>
-  <a href="https://www.discord.com/users/684748470799958033">
-    <img src="https://img.icons8.com/color/60/000000/discord--v2.png" alt="Discord"/>
-  </a>
-  <a href="https://kian-ahmadian.ir">
-    <img src="https://img.icons8.com/ios-filled/60/000000/domain.png" alt="My Site"/>
-  </a>
-</p>
+  <a href="https://www.discord.com/users/684748470799958033"><img src="https://img.icons8.com/color/60/000000/discord--v2.png" alt="Discord"/></a>
+  <a href="https://kian-ahmadian.ir"><img src="https://img.icons8.com/ios-filled/60/000000/domain.png" alt="My Site"/></a></p>
