@@ -24,7 +24,26 @@
   <a href="https://t.me/Dev_cpp"><img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png" alt="Telegram"/></a>
   <a href="https://www.linkedin.com/in/kian-ahmadian/"><img src="https://img.icons8.com/color/60/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://www.x.com/hamidrashidi98/"><img src="https://img.icons8.com/ios-filled/60/ffffff/twitterx.png" alt="X (Twitter)"/></a>
-  <a href="https://stackoverflow.com/users/15463651/kian-ahmadian"><img src="https://img.icons8.com/color/60/000000/stackoverflow.png" alt="Stack Overflow"/></a>
-  <a href="https://codeforces.com/profile/kian_ahmadian"><img src="https://sta.codeforces.com/s/73549/images/icons/favicon-32x32.png" width="60" height="60" alt="Codeforces"/></a>
   <a href="https://www.discord.com/users/684748470799958033"><img src="https://img.icons8.com/color/60/000000/discord--v2.png" alt="Discord"/></a>
-  <a href="https://hamid-rashidi.ir"><img src="https://img.icons8.com/ios-filled/60/000000/domain.png" alt="My Site"/></a></p>
+  <a href="https://hamid-rashidi.ir"><img src="https://img.icons8.com/ios-filled/60/000000/domain.png" alt="My Site"/></a> </p>
+###### test 
+<p align="center">
+  <a href="mailto:info@kian-ahmadian.ir">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60" alt="Email"/>
+  </a>
+  <a href="https://t.me/Dev_cpp">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="60" height="60" alt="Telegram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kian-ahmadian/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.x.com/hamidrashidi98/">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="60" height="60" alt="X (Twitter)"/>
+  </a>
+  <a href="https://www.discord.com/users/684748470799958033">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="60" height="60" alt="Discord"/>
+  </a>
+  <a href="https://github.com/hamidrashidi98">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub (My Site)"/>
+  </a>
+</p>
