@@ -2,16 +2,22 @@
   <defs>
     <style>
       .grid { stroke: #333; stroke-width: 0.05; }
-      .snake-head { fill: url(#snake-gradient); }
-      .snake-body { fill: url(#snake-gradient); opacity: 0.8; }
+      .snake1-head { fill: url(#snake1-gradient); }
+      .snake1-body { fill: url(#snake1-gradient); opacity: 0.8; }
+      .snake2-head { fill: url(#snake2-gradient); }
+      .snake2-body { fill: url(#snake2-gradient); opacity: 0.8; }
       .fish-red { fill: #FF0000; }
       .fish-yellow { fill: #FFFF00; }
       .fish-blue { fill: #0000FF; }
       .gold { fill: #FFD700; }
     </style>
-    <linearGradient id="snake-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="snake1-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#006400;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#32CD32;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="snake2-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9400D3;stop-opacity:1" />
     </linearGradient>
   </defs>
   <rect width="85.4" height="30" fill="#1a1a1a" />
@@ -19,23 +25,26 @@
     <path d="M0,0 H85.4 M0,1 H85.4 M0,2 H85.4 M0,3 H85.4 M0,4 H85.4 M0,5 H85.4 M0,6 H85.4 M0,7 H85.4 M0,8 H85.4 M0,9 H85.4 M0,10 H85.4 M0,11 H85.4 M0,12 H85.4 M0,13 H85.4 M0,14 H85.4 M0,15 H85.4 M0,16 H85.4 M0,17 H85.4 M0,18 H85.4 M0,19 H85.4 M0,20 H85.4 M0,21 H85.4 M0,22 H85.4 M0,23 H85.4 M0,24 H85.4 M0,25 H85.4 M0,26 H85.4 M0,27 H85.4 M0,28 H85.4 M0,29 H85.4" class="grid" />
     <path d="M0,0 V30 M1,0 V30 M2,0 V30 M3,0 V30 M4,0 V30 M5,0 V30 M6,0 V30 M7,0 V30 M8,0 V30 M9,0 V30 M10,0 V30 M11,0 V30 M12,0 V30 M13,0 V30 M14,0 V30 M15,0 V30 M16,0 V30 M17,0 V30 M18,0 V30 M19,0 V30 M20,0 V30 M21,0 V30 M22,0 V30 M23,0 V30 M24,0 V30 M25,0 V30 M26,0 V30 M27,0 V30 M28,0 V30 M29,0 V30 M30,0 V30 M31,0 V30 M32,0 V30 M33,0 V30 M34,0 V30 M35,0 V30 M36,0 V30 M37,0 V30 M38,0 V30 M39,0 V30 M40,0 V30 M41,0 V30 M42,0 V30 M43,0 V30 M44,0 V30 M45,0 V30 M46,0 V30 M47,0 V30 M48,0 V30 M49,0 V30 M50,0 V30 M51,0 V30 M52,0 V30 M53,0 V30 M54,0 V30 M55,0 V30 M56,0 V30 M57,0 V30 M58,0 V30 M59,0 V30 M60,0 V30 M61,0 V30 M62,0 V30 M63,0 V30 M64,0 V30 M65,0 V30 M66,0 V30 M67,0 V30 M68,0 V30 M69,0 V30 M70,0 V30 M71,0 V30 M72,0 V30 M73,0 V30 M74,0 V30 M75,0 V30 M76,0 V30 M77,0 V30 M78,0 V30 M79,0 V30 M80,0 V30 M81,0 V30 M82,0 V30 M83,0 V30 M84,0 V30 M85,0 V30" class="grid" />
   </g>
-  <g id="snake"></g>
+  <g id="snake1"></g>
+  <g id="snake2"></g>
   <text id="food" x="15" y="15" class="fish-red" font-size="1.5">🐟</text>
   <text id="score" x="1" y="1" fill="#FFFFFF" font-size="1">Score: 0</text>
   <script>
     <![CDATA[
     const svg = document.querySelector('svg');
-    const snakeGroup = document.getElementById('snake');
+    const snake1Group = document.getElementById('snake1');
+    const snake2Group = document.getElementById('snake2');
     const food = document.getElementById('food');
     const scoreText = document.getElementById('score');
-    let snake = [{x: 10, y: 15}];
+    let snake1 = [{x: 10, y: 15}];
+    let snake2 = [{x: 75, y: 15}];
     let foodPos = {x: 15, y: 15};
     let foodType = 'fish-red';
     let score = 0;
     let gameInterval;
 
-    function drawSnake() {
-      snakeGroup.innerHTML = '';
+    function drawSnake(snake, group, headClass, bodyClass) {
+      group.innerHTML = '';
       snake.forEach((segment, index) => {
         const element = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
         element.setAttribute('x', segment.x);
@@ -43,15 +52,15 @@
         element.setAttribute('width', 1);
         element.setAttribute('height', 1);
         element.setAttribute('rx', 0.2);
-        element.setAttribute('class', index === 0 ? 'snake-head' : 'snake-body');
-        snakeGroup.appendChild(element);
+        element.setAttribute('class', index === 0 ? headClass : bodyClass);
+        group.appendChild(element);
       });
     }
 
-    function getNextMove() {
+    function getNextMove(snake, target) {
       const head = snake[0];
-      const dx = foodPos.x - head.x;
-      const dy = foodPos.y - head.y;
+      const dx = target.x - head.x;
+      const dy = target.y - head.y;
       let direction = {x: 0, y: 0};
 
       if (Math.abs(dx) > Math.abs(dy)) {
@@ -75,7 +84,7 @@
 
     function spawnFood() {
       const foodTypes = ['fish-red', 'fish-yellow', 'fish-blue', 'gold'];
-      const probabilities = [0.3, 0.3, 0.3, 0.1];
+      const probabilities = [0.3, 0.3, 0.2, 0.2]; // 20% chance for gold
       let rand = Math.random();
       let cumulative = 0;
       let selectedType = 'fish-red';
@@ -88,7 +97,7 @@
       }
 
       foodPos = {x: Math.floor(Math.random() * 85.4), y: Math.floor(Math.random() * 30)};
-      while (snake.some(seg => seg.x === foodPos.x && seg.y === foodPos.y)) {
+      while (snake1.some(seg => seg.x === foodPos.x && seg.y === foodPos.y) || snake2.some(seg => seg.x === foodPos.x && seg.y === foodPos.y)) {
         foodPos = {x: Math.floor(Math.random() * 85.4), y: Math.floor(Math.random() * 30)};
       }
       foodType = selectedType;
@@ -98,30 +107,61 @@
       food.textContent = foodType === 'gold' ? '💰' : '🐟';
     }
 
-    function moveSnake() {
-      const direction = getNextMove();
-      const head = {x: snake[0].x + direction.x, y: snake[0].y + direction.y};
+    function moveSnakes() {
+      // Move snake1
+      let direction1 = getNextMove(snake1, foodPos);
+      let head1 = {x: snake1[0].x + direction1.x, y: snake1[0].y + direction1.y};
 
-      if (head.x < 0 || head.x >= 85.4 || head.y < 0 || head.y >= 30) {
+      // Move snake2
+      let direction2 = getNextMove(snake2, foodPos);
+      let head2 = {x: snake2[0].x + direction2.x, y: snake2[0].y + direction2.y};
+
+      // Check for collisions
+      if (head1.x < 0 || head1.x >= 85.4 || head1.y < 0 || head1.y >= 30 || 
+          snake1.some(seg => seg.x === head1.x && seg.y === head1.y) ||
+          snake2.some(seg => seg.x === head1.x && seg.y === head1.y)) {
         clearInterval(gameInterval);
-        alert('Game Over! Your score: ' + score);
+        alert('Game Over! Snake 1 crashed. Score: ' + score);
+        return;
+      }
+      if (head2.x < 0 || head2.x >= 85.4 || head2.y < 0 || head2.y >= 30 || 
+          snake2.some(seg => seg.x === head2.x && seg.y === head2.y) ||
+          snake1.some(seg => seg.x === head2.x && seg.y === head2.y)) {
+        clearInterval(gameInterval);
+        alert('Game Over! Snake 2 crashed. Score: ' + score);
         return;
       }
 
-      snake.unshift(head);
-      if (Math.abs(head.x - foodPos.x) < 0.5 && Math.abs(head.y - foodPos.y) < 0.5) {
+      snake1.unshift(head1);
+      snake2.unshift(head2);
+
+      // Check for food
+      let ateFood = false;
+      if (Math.abs(head1.x - foodPos.x) < 0.5 && Math.abs(head1.y - foodPos.y) < 0.5) {
         score += foodType === 'gold' ? 5 : 1;
         scoreText.textContent = 'Score: ' + score;
+        ateFood = true;
+      } else if (Math.abs(head2.x - foodPos.x) < 0.5 && Math.abs(head2.y - foodPos.y) < 0.5) {
+        score += foodType === 'gold' ? 5 : 1;
+        scoreText.textContent = 'Score: ' + score;
+        ateFood = true;
+      }
+
+      if (ateFood) {
         spawnFood();
       } else {
-        snake.pop();
+        snake1.pop();
+        snake2.pop();
       }
-      drawSnake();
+
+      drawSnake(snake1, snake1Group, 'snake1-head', 'snake1-body');
+      drawSnake(snake2, snake2Group, 'snake2-head', 'snake2-body');
     }
 
     spawnFood();
-    gameInterval = setInterval(moveSnake, 150);
-    drawSnake();
+    gameInterval = setInterval(moveSnakes, 150);
+    drawSnake(snake1, snake1Group, 'snake1-head', 'snake1-body');
+    drawSnake(snake2, snake2Group, 'snake2-head', 'snake2-body');
     ]]>
   </script>
 </svg>
