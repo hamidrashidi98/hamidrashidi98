@@ -2,7 +2,7 @@
 ![Hamid Rashidi SVG](./hamidrashidi98.svg)
 ##### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CED1&vCenter=true&random=false&width=435&lines=I'm+Hamid,+a+developer+from+Iran!;Discord+Bot+Developer!;Bale+Bot+Developer!;Telegram+Bot+Developer!;Frontend+Programmer!;Backend+Developer!;Passionate+About+Development!" alt="Typing SVG">
 <!--![FREE PALESTINE](https://github.com/hamidrashidi98/hamidrashidi98/blob/main/palestine.png?raw=true)--> 
-##### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=19&duration=3000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=200&lines=Languages+%26+IDE+%3B" alt="Languages & IDE :">
+##### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&duration=3000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=200&lines=Languages+%26+IDE+%3B" alt="Languages & IDE :">
 
 ###### Languages & IDE ;
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/></a>
