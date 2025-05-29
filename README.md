@@ -27,4 +27,11 @@
 <a href="https://www.discord.com/users/684748470799958033"><img src="https://pngimg.com/uploads/discord/discord_PNG7.png" alt="Discord" width="60" height="60"/></a>
 <a href="https://hamid-rashidi.ir"><img src="https://raw.githubusercontent.com/hamidrashidi98/hamidrashidi98/main/github.jpg" width="60" height="60" alt="Profile"/></a>
 My website
+<div align="center">
+  <a href="https://hamid-rashidi.ir">
+    <img src="https://raw.githubusercontent.com/hamidrashidi98/hamidrashidi98/main/github.jpg" width="60" height="60" alt="Profile"/>
+  </a>
+  <div>My website</div>
+</div>
+
 </p>
