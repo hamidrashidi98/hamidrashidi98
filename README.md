@@ -13,9 +13,3 @@ Watch the snake 🐍 chase colorful fish 🐟 (red, yellow, blue) or collect gol
 - Python
 - Turtle
 - SVG Animations
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) *(Add your LinkedIn URL)*
-- [Email](mailto:your.email@example.com) *(Add your email)*
-
-Enjoy watching the snake and explore my projects below! 🚀
