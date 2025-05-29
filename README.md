@@ -29,18 +29,10 @@
 ###### test 
 <p align="center">
 <a href="mailto:info@kian-ahmadian.ir"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60" alt="Email"/></a>
+<a href="https://t.me/Dev_cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="60" height="60" alt="Telegram"/></a>
 <a href="https://www.linkedin.com/in/kian-ahmadian/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/></a>
 <a href="https://www.discord.com/users/684748470799958033"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="60" height="60" alt="Discord"/></a>
 <a href="https://github.com/hamidrashidi98"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub (My Site)"/></a>
-<p align="center">
-  <!-- Telegram -->
-  <a href="https://t.me/Dev_cpp">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="60" height="60" alt="Telegram"/>
-  </a>
-
-  <!-- X (Twitter) -->
-  <a href="https://www.x.com/hamidrashidi98/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="60" height="60" alt="X (Twitter)"/>
+<a href="https://www.x.com/hamidrashidi98/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="60" height="60" alt="X (Twitter)"/>
 </a>
-
 </p>
