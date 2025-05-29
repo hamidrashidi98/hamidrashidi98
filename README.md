@@ -1,5 +1,8 @@
 ##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Welcome+to+My+GitHub+Profile!;Discord+Bot+Developer;Bale+Bot+Developer;Telegram+Bot+Developer;Frontend+Programmer;Backend+Developer;Passionate+about+Development+%E2%99%A5%EF%B8%8F)
 
+<span style="font-family: 'Fira Code', monospace; font-size: 18px; font-weight: 600; color: #0000FF;">Welcome to My GitHub Profile!</span>
+
+##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0000FF&vCenter=true&random=false&width=435&lines=Discord+Bot+Developer;Bale+Bot+Developer;Telegram+Bot+Developer;Frontend+Programmer;Backend+Developer;Passionate+about+Development+%E2%99%A5)
 ![Hamid Rashidi SVG](./hamidrashidi.svg)
 
 ## Hi there !🫡🙌 
