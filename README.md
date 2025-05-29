@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/kian-ahmadian/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/></a>
 <a href="https://www.discord.com/users/684748470799958033"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="60" height="60" alt="Discord"/></a>
 <a href="https://hamid-rashidi.ir"><img src="https://raw.githubusercontent.com/hamidrashidi98/hamidrashidi98/main/github.jpg" width="60" height="60" alt="Profile"/></a>
-<a href="https://www.x.com/hamidrashidi98/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="60" height="60" alt="X"/></a></p>
+<a href="https://x.com/hamidrashidi98"><img src="https://raw.githubusercontent.com/hamidrashidi98/hamidrashidi98/main/assets/x.png" width="60" height="60" alt="X"/></a>
 ### test
 <p align="center">
 <a href="mailto:info@kian-ahmadian.ir"><img src="https://img.icons8.com/color/60/000000/gmail-new.png" alt="Email"/></a>
