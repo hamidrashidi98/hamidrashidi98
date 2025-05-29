@@ -31,6 +31,6 @@
 <a href="mailto:info@kian-ahmadian.ir"><img src="https://img.icons8.com/color/60/000000/gmail-new.png" alt="Email"/></a>
 <a href="https://t.me/Dev_cpp"><img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png" alt="Telegram"/></a>
 <a href="https://www.linkedin.com/in/kian-ahmadian/"><img src="https://commons.wikimedia.org/wiki/File:X_logo_2023_(white).svg" alt="LinkedIn"/></a>
-<a href="https://www.x.com/hamidrashidi98/"><img src="[https://commons.wikimedia.org/wiki/File:X_logo_2023_(white).svg](https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png)" alt="x"/></a>
+<a href="https://www.x.com/hamidrashidi98/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="x"/></a>
 <a href="https://www.discord.com/users/684748470799958033"><img src="https://img.icons8.com/color/60/000000/discord--v2.png" alt="Discord"/></a>
 <a href="https://hamid-rashidi.ir"><img src="https://img.icons8.com/ios-filled/60/000000/domain.png" alt="My Site"/></a> </p>
