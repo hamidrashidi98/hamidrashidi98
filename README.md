@@ -28,21 +28,32 @@
   <a href="https://hamid-rashidi.ir"><img src="https://img.icons8.com/ios-filled/60/000000/domain.png" alt="My Site"/></a> </p>
 ###### test 
 <p align="center">
+  <!-- Email -->
   <a href="mailto:info@kian-ahmadian.ir">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60" alt="Email"/>
+    <img src="https://img.icons8.com/color/60/gmail-new.png" width="60" height="60" alt="Email"/>
   </a>
+
+  <!-- Telegram -->
   <a href="https://t.me/Dev_cpp">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="60" height="60" alt="Telegram"/>
+    <img src="https://img.icons8.com/color/60/telegram-app--v1.png" width="60" height="60" alt="Telegram"/>
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kian-ahmadian/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/60/linkedin.png" width="60" height="60" alt="LinkedIn"/>
   </a>
+
+  <!-- X (Twitter) -->
   <a href="https://www.x.com/hamidrashidi98/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="60" height="60" alt="X (Twitter)"/>
+    <img src="https://img.icons8.com/ios-filled/60/ffffff/twitterx.png" width="60" height="60" alt="X (Twitter)"/>
   </a>
+
+  <!-- Discord -->
   <a href="https://www.discord.com/users/684748470799958033">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="60" height="60" alt="Discord"/>
+    <img src="https://img.icons8.com/color/60/discord--v2.png" width="60" height="60" alt="Discord"/>
   </a>
+
+  <!-- My Site (GitHub) -->
   <a href="https://github.com/hamidrashidi98">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub (My Site)"/>
   </a>
