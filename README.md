@@ -28,35 +28,10 @@
   <a href="https://hamid-rashidi.ir"><img src="https://img.icons8.com/ios-filled/60/000000/domain.png" alt="My Site"/></a> </p>
 ###### test 
 <p align="center">
-  <!-- Email -->
-  <a href="mailto:info@kian-ahmadian.ir">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="60" height="60" alt="Email"/>
-  </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/Dev_cpp">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" width="60" height="60" alt="Telegram"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/kian-ahmadian/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="60" height="60" alt="LinkedIn"/>
-  </a>
-
-  <!-- X -->
-  <a href="https://www.x.com/hamidrashidi98/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="60" height="60" alt="X"/>
-  </a>
-
-  <!-- Discord -->
-  <a href="https://www.discord.com/users/684748470799958033">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" width="60" height="60" alt="Discord"/>
-  </a>
-
-  <!-- My Site (GitHub Avatar) -->
-  <a href="https://github.com/account">
-    <img src="https://avatars.githubusercontent.com/u/583231?v=4" width="60" height="60" alt="My GitHub"/>
-  </a>
-</p>
-
+<a href="mailto:info@kian-ahmadian.ir"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60" alt="Email"/></a>
+<a href="https://t.me/Dev_cpp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="60" height="60" alt="Telegram"/></a>
+<a href="https://www.linkedin.com/in/kian-ahmadian/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/></a>
+<a href="https://www.x.com/hamidrashidi98/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="60" height="60" alt="X (Twitter)"/></a>
+<a href="https://www.discord.com/users/684748470799958033"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="60" height="60" alt="Discord"/></a>
+<a href="https://github.com/hamidrashidi98"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub (My Site)"/></a></p>
 
