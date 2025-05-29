@@ -26,14 +26,4 @@
 <a href="https://www.x.com/hamidrashidi98/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="x" width="60" height="60"/></a>
 <a href="https://www.discord.com/users/684748470799958033"><img src="https://pngimg.com/uploads/discord/discord_PNG7.png" alt="Discord" width="60" height="60"/></a>
 <a href="https://hamid-rashidi.ir"><img src="https://raw.githubusercontent.com/hamidrashidi98/hamidrashidi98/main/github.jpg" width="60" height="60" alt="Profile"/></a>
-###My website
-<p align="center">
-<a href="mailto:info@kian-ahmadian.ir"><img src="https://img.icons8.com/color/60/000000/gmail-new.png" alt="Email"/></a>
-<a href="https://t.me/Dev_cpp"><img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png" alt="Telegram"/></a>
-<a href="https://www.linkedin.com/in/kian-ahmadian/"><img src="https://commons.wikimedia.org/wiki/File:X_logo_2023_(white).svg" alt="LinkedIn"/></a>
-
-<a href="https://www.discord.com/users/684748470799958033">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg](https://pngimg.com/uploads/discord/discord_PNG7.png)" alt="Discord" width="60" height="60"/>
-</a>
-
-<a href="https://hamid-rashidi.ir"><img src="https://img.icons8.com/ios-filled/60/000000/domain.png" alt="My Site"/></a> </p>
+My website
