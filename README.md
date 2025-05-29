@@ -30,17 +30,17 @@
 <p align="center">
   <!-- Email -->
   <a href="mailto:info@kian-ahmadian.ir">
-    <img src="https://img.icons8.com/color/60/gmail-new.png" width="60" height="60" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="60" height="60" alt="Email"/>
   </a>
 
   <!-- Telegram -->
   <a href="https://t.me/Dev_cpp">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="60" height="60" alt="Telegram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" width="60" height="60" alt="Telegram"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kian-ahmadian/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="60" height="60" alt="LinkedIn"/>
   </a>
 
   <!-- X -->
@@ -53,9 +53,10 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" width="60" height="60" alt="Discord"/>
   </a>
 
-  <!-- My Site (GitHub) -->
-  <a href="https://github.com/hamidrashidi98">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>
+  <!-- My Site (GitHub Avatar) -->
+  <a href="https://github.com/account">
+    <img src="https://avatars.githubusercontent.com/u/583231?v=4" width="60" height="60" alt="My GitHub"/>
   </a>
 </p>
+
 
