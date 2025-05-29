@@ -4,8 +4,7 @@
 <!--![FREE PALESTINE](https://github.com/hamidrashidi98/hamidrashidi98/blob/main/palestine.png?raw=true)--> 
 ##### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&duration=3000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=200&lines=Languages+%26+IDE+%3B" alt="Languages & IDE :">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=440&lines=Languages+%26+IDE+٪DB%9B" alt="Languages & IDE">
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=440&lines=Languages+%26+IDE+%EF%BC%9B" alt="Languages & IDE ;">
 
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/></a>
