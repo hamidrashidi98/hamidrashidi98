@@ -30,7 +30,6 @@
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/></a>
 <a href="https://lua.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="60" height="60"/></a>
 <a href="https://www.json.org/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="60" height="60"/></a>
-
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" height="60"/></a>
 <a href="https://www.jetbrains.com/webstorm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="60" height="60"/></a>
 <a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60"/></a>
