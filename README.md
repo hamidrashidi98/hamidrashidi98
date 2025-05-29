@@ -1,4 +1,5 @@
 ##### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=440&lines=Welcome+to+My+GitHub+Profile!" alt="Welcome Typing SVG">
+![FREE PALESTINE](https://github.com/hamidrashidi98/hamidrashidi98/blob/main/palestine.png?raw=true)
 
 ![Hamid Rashidi SVG](./hamidrashidi98.svg)
 
