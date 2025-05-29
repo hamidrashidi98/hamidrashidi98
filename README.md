@@ -1,5 +1,5 @@
 ## Welcome to My GitHub Profile!
-![Hamid Rashidi SVG](./hwamidrashidi.svg)
+![Hamid Rashidi SVG](./hamidrashidi.svg)
 ## Hi there !🫡🙌 
 ## I’m Hamid, a developer from Iran.
 ![Hamid Rashidi SVG](./snake.svg)
