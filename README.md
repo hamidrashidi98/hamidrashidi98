@@ -31,6 +31,11 @@
 <a href="mailto:info@kian-ahmadian.ir"><img src="https://img.icons8.com/color/60/000000/gmail-new.png" alt="Email"/></a>
 <a href="https://t.me/Dev_cpp"><img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png" alt="Telegram"/></a>
 <a href="https://www.linkedin.com/in/kian-ahmadian/"><img src="https://img.icons8.com/color/60/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://www.x.com/hamidrashidi98/"><svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="white"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></svg></a>
+<a href="https://www.x.com/hamidrashidi98/">
+  <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="#00CED1">
+    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+  </svg>
+</a>
+
 <a href="https://www.discord.com/users/684748470799958033"><img src="https://img.icons8.com/color/60/000000/discord--v2.png" alt="Discord"/></a>
 <a href="https://hamid-rashidi.ir"><img src="https://img.icons8.com/ios-filled/60/000000/domain.png" alt="My Site"/></a> </p>
