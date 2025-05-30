@@ -2,7 +2,7 @@
 ##### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=440&lines=Welcome+to+My+GitHub+Profile!" alt="Welcome Typing SVG">
 ![Hamid Rashidi SVG](./hamidrashidi98.svg)
 ##### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CED1&vCenter=true&random=false&width=435&lines=I'm+Hamid,+a+developer+from+Iran!;Discord+Bot+Developer!;Bale+Bot+Developer!;Telegram+Bot+Developer!;Frontend+Programmer!;Backend+Developer!;Passionate+About+Development!" alt="Typing SVG">
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=440&lines=Languages+%26+IDE+%EF%BC%9B" alt="Languages & IDE ;">
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=440&lines=Languages+%26+Tools+%EF%BC%9B" alt="Languages & Tools ;">
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/></a>
 <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/></a>
