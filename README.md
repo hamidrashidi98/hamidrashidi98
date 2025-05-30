@@ -25,7 +25,7 @@
 <a href="https://t.me/Dev_cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="60" height="60" alt="Telegram"/></a>
 <a href="https://www.linkedin.com/in/kian-ahmadian/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/></a>
 <a href="https://www.x.com/hamidrashidi98/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="x" width="60" height="60"/></a>
-<a href="https://www.discord.com/users/684748470799958033"><img src="https://pngimg.com/uploads/discord/discord_PNG7.png" alt="Discord" width="60" height="60"/></a>
+<a href="https://www.discord.com/users/1145714594388648096"><img src="https://pngimg.com/uploads/discord/discord_PNG7.png" alt="Discord" width="60" height="60"/></a>
 <div align="center">
   <a href="https://hamid-rashidi.ir">
     <img src="https://avatars.githubusercontent.com/u/211226869?v=4" width="60" height="60" alt="Profile"/>
