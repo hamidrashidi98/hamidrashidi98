@@ -8,7 +8,7 @@
 <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/></a>
 <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/></a>
-<a href="https://pypi.org/user/hamidrashidi98/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Pypi_logo.svg" width="60" height="60" alt="PyPI Logo"/></a>
+<a href="https://pypi.org/user/hamidrashidi98/"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/PyPI-Logo-notext.svg" width="60" height="60" alt="PyPI Logo"/></a>
 <a href="https://html.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/></a>
 <a href="https://lua.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="60" height="60"/></a>
