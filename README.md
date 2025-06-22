@@ -21,9 +21,9 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=440&lines=Contact+to+Me+with+%EF%BC%9B" alt="Contact">
 
 <p align="center">
-<a href="mailto:info@kian-ahmadian.ir"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" width="60" height="60" alt="Email"/></a>
+<a href="m"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" width="60" height="60" alt="Email"/></a>
 <a href="https://t.me/Dev_cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="60" height="60" alt="Telegram"/></a>
-<a href="https://www.linkedin.com/in/kian-ahmadian/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/></a>
+<a href="/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/></a>
 <a href="https://www.x.com/hamidrashidi98/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="x" width="60" height="60"/></a>
 <a href="https://www.discord.com/users/1145714594388648096"><img src="https://pngimg.com/uploads/discord/discord_PNG7.png" alt="Discord" width="60" height="60"/></a>
 <div align="center">
