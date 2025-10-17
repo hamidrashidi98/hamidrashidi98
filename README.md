@@ -31,7 +31,6 @@
     <img src="https://avatars.githubusercontent.com/u/211226869?v=4" width="60" height="60" alt="Profile"/>
   </a>
   <div>My website</div>
-  <div>[GitHub Profile](https://hamidrashidi98.github.io/)</div>
 </div>
 
 
