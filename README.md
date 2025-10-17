@@ -1,4 +1,3 @@
-[GitHub Profile](https://github.com/hamidrashidi98)
 <!--![FREE PALESTINE](https://github.com/hamidrashidi98/hamidrashidi98/blob/main/palestine.png?raw=true)--> 
 ##### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=999999&color=00CED1&vCenter=true&repeat=false&width=440&lines=Welcome+to+My+GitHub+Profile!" alt="Welcome Typing SVG">
 ![Hamid Rashidi SVG](./hamidrashidi98.svg)
@@ -28,10 +27,11 @@
 <a href="https://www.x.com/hamidrashidi98/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="x" width="60" height="60"/></a>
 <a href="https://www.discord.com/users/1145714594388648096"><img src="https://pngimg.com/uploads/discord/discord_PNG7.png" alt="Discord" width="60" height="60"/></a>
 <div align="center">
-  <a href="https://hamid-rashidi.ir">
+  <a href="https://hamidrashidi98.github.io/">
     <img src="https://avatars.githubusercontent.com/u/211226869?v=4" width="60" height="60" alt="Profile"/>
   </a>
   <div>My website</div>
+  <div>[GitHub Profile](https://hamidrashidi98.github.io/)</div>
 </div>
 
 
